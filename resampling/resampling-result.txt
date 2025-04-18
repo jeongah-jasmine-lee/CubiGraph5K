@@ -1,0 +1,61 @@
+======== Full Dataset Statistics: ========
+full_keep shape: (3486, 3)
+Existing full counts:
+ difficulty
+medium    1958
+easy      1528
+Name: count, dtype: int64
+======== Sample Dataset Statistics: ========
+sample_keep shape: (68, 3)
+Existing sample counts:
+ difficulty
+easy      34
+medium    34
+Name: count, dtype: int64
+============= After dropping hard =============
+Number of Full Dataset:  3486
+Number of Sample Dataset:  68
+
+Initial Cohen's d: 0.48347261079009923
+=========================================
+Need additional: 16 easy; 30 medium
+Reached |d|=0.1851 < 0.2; stopping early.
+
+Selected directories to add:
+1 :  ../cubicasa5k-666/high_quality_architectural/12482
+2 :  ../cubicasa5k-666/high_quality_architectural/11008
+3 :  ../cubicasa5k-666/high_quality_architectural/2528
+4 :  ../cubicasa5k-666/high_quality/10422
+5 :  ../cubicasa5k-666/high_quality_architectural/5028
+6 :  ../cubicasa5k-666/high_quality/5972
+7 :  ../cubicasa5k-666/high_quality_architectural/3933
+8 :  ../cubicasa5k-666/high_quality_architectural/11002
+9 :  ../cubicasa5k-666/high_quality_architectural/13202
+10 :  ../cubicasa5k-666/high_quality_architectural/11004
+11 :  ../cubicasa5k-666/high_quality_architectural/11016
+12 :  ../cubicasa5k-666/high_quality_architectural/20064
+13 :  ../cubicasa5k-666/high_quality/12874
+14 :  ../cubicasa5k-666/high_quality_architectural/10303
+15 :  ../cubicasa5k-666/high_quality/13442
+16 :  ../cubicasa5k-666/high_quality_architectural/6589
+17 :  ../cubicasa5k-666/high_quality_architectural/10151
+18 :  ../cubicasa5k-666/high_quality_architectural/10649
+19 :  ../cubicasa5k-666/high_quality_architectural/1924
+20 :  ../cubicasa5k-666/high_quality/8572
+21 :  ../cubicasa5k-666/high_quality_architectural/11650
+22 :  ../cubicasa5k-666/high_quality_architectural/12620
+23 :  ../cubicasa5k-666/high_quality_architectural/3085
+
+================= Data Statistics:================
+
+Full Data Statistics:
+  Count: 3486
+  Mean: 0.3510
+  Variance: 0.0089
+
+Sample Data Statistics:
+  Count: 91
+  Mean: 0.3331
+  Variance: 0.0265
+
+New Cohen's d: 0.1850779077798827

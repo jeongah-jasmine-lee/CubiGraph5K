@@ -17,125 +17,239 @@ Full Data Statistics:
 
 Sample Data Statistics:
   Count: 114
-  Mean: 0.3471
-  Variance: 0.0082
+  Mean: 0.3608
+  Variance: 0.0090
 Sample size: 114
-Cohen's d: 0.041486151381396254
+Cohen's d: -0.10390809965666596
 
 ===== Easy Samples =====
-[Easy] ../cubicasa5k-666/high_quality_architectural/11411 (score: 0.2345)
-[Easy] ../cubicasa5k-666/high_quality_architectural/11026 (score: 0.2229)
-[Easy] ../cubicasa5k-666/high_quality/641 (score: 0.2099)
-[Easy] ../cubicasa5k-666/colorful/3721 (score: 0.2451)
-[Easy] ../cubicasa5k-666/high_quality_architectural/1914 (score: 0.2229)
-[Easy] ../cubicasa5k-666/high_quality/4841 (score: 0.2708)
-[Easy] ../cubicasa5k-666/high_quality_architectural/11024 (score: 0.2686)
-[Easy] ../cubicasa5k-666/colorful/13278 (score: 0.2627)
-[Easy] ../cubicasa5k-666/high_quality/12190 (score: 0.2686)
-[Easy] ../cubicasa5k-666/high_quality_architectural/9231 (score: 0.2768)
-[Easy] ../cubicasa5k-666/high_quality_architectural/8535 (score: 0.2896)
-[Easy] ../cubicasa5k-666/high_quality/5932 (score: 0.3044)
-[Easy] ../cubicasa5k-666/high_quality_architectural/12125 (score: 0.2921)
-[Easy] ../cubicasa5k-666/high_quality/9554 (score: 0.3049)
-[Easy] ../cubicasa5k-666/high_quality_architectural/6626 (score: 0.2921)
-[Easy] ../cubicasa5k-666/high_quality_architectural/2142 (score: 0.3084)
-[Easy] ../cubicasa5k-666/high_quality_architectural/12536 (score: 0.3131)
-[Easy] ../cubicasa5k-666/colorful/13019 (score: 0.3176)
-[Easy] ../cubicasa5k-666/high_quality_architectural/8681 (score: 0.3161)
-[Easy] ../cubicasa5k-666/high_quality/1097 (score: 0.3131)
-[Easy] ../cubicasa5k-666/high_quality_architectural/11002 (score: 0.3272)
-[Easy] ../cubicasa5k-666/high_quality_architectural/12482 (score: 0.3279)
-[Easy] ../cubicasa5k-666/high_quality/13442 (score: 0.3252)
-[Easy] ../cubicasa5k-666/high_quality_architectural/11016 (score: 0.3272)
-[Easy] ../cubicasa5k-666/high_quality_architectural/11008 (score: 0.3279)
-[Easy] ../cubicasa5k-666/high_quality_architectural/11023 (score: 0.1538)
-[Easy] ../cubicasa5k-666/high_quality_architectural/2528 (score: 0.3272)
-[Easy] ../cubicasa5k-666/high_quality_architectural/6347 (score: 0.2099)
-[Easy] ../cubicasa5k-666/high_quality_architectural/6324 (score: 0.2229)
-[Easy] ../cubicasa5k-666/high_quality_architectural/1838 (score: 0.3097)
-[Easy] ../cubicasa5k-666/high_quality_architectural/5923 (score: 0.1538)
-[Easy] ../cubicasa5k-666/high_quality_architectural/10547 (score: 0.3225)
-[Easy] ../cubicasa5k-666/high_quality_architectural/9719 (score: 0.3027)
-[Easy] ../cubicasa5k-666/high_quality_architectural/11002 (score: 0.3272)
-[Easy] ../cubicasa5k-666/colorful/14927 (score: 0.2627)
-[Easy] ../cubicasa5k-666/colorful/12202 (score: 0.2451)
-[Easy] ../cubicasa5k-666/high_quality_architectural/12289 (score: 0.2768)
-[Easy] ../cubicasa5k-666/high_quality_architectural/13859 (score: 0.2990)
-[Easy] ../cubicasa5k-666/high_quality_architectural/7710 (score: 0.1038)
-[Easy] ../cubicasa5k-666/high_quality_architectural/1842 (score: 0.2627)
-[Easy] ../cubicasa5k-666/high_quality_architectural/1829 (score: 0.2627)
-[Easy] ../cubicasa5k-666/high_quality_architectural/13638 (score: 0.2768)
-[Easy] ../cubicasa5k-666/high_quality/7744 (score: 0.2815)
-[Easy] ../cubicasa5k-666/high_quality/20223 (score: 0.2942)
-[Easy] ../cubicasa5k-666/high_quality/9416 (score: 0.2567)
-[Easy] ../cubicasa5k-666/colorful/13278 (score: 0.2627)
-[Easy] ../cubicasa5k-666/colorful/13019 (score: 0.3176)
-[Easy] ../cubicasa5k-666/colorful/476 (score: 0.1760)
-[Easy] ../cubicasa5k-666/high_quality_architectural/2117 (score: 0.2627)
-[Easy] ../cubicasa5k-666/colorful/1570 (score: 0.2802)
+1
+[Easy] ../cubicasa5k-662/high_quality/3530 (score: 0.2451)
+2
+[Easy] ../cubicasa5k-662/colorful/4006 (score: 0.2451)
+3
+[Easy] ../cubicasa5k-662/high_quality_architectural/233 (score: 0.1538)
+4
+[Easy] ../cubicasa5k-662/high_quality_architectural/14310 (score: 0.1760)
+5
+[Easy] ../cubicasa5k-662/high_quality/10083 (score: 0.2334)
+6
+[Easy] ../cubicasa5k-662/high_quality/9000 (score: 0.2627)
+7
+[Easy] ../cubicasa5k-662/high_quality_architectural/14311 (score: 0.2745)
+8
+[Easy] ../cubicasa5k-662/high_quality_architectural/1902 (score: 0.2627)
+9
+[Easy] ../cubicasa5k-662/high_quality/14127 (score: 0.2486)
+10
+[Easy] ../cubicasa5k-662/high_quality_architectural/14438 (score: 0.2768)
+11
+[Easy] ../cubicasa5k-662/high_quality_architectural/12677 (score: 0.3027)
+12
+[Easy] ../cubicasa5k-662/high_quality_architectural/11409 (score: 0.2908)
+13
+[Easy] ../cubicasa5k-662/high_quality_architectural/9719 (score: 0.3027)
+14
+[Easy] ../cubicasa5k-662/high_quality_architectural/11061 (score: 0.2908)
+15
+[Easy] ../cubicasa5k-662/high_quality_architectural/12125 (score: 0.2921)
+16
+[Easy] ../cubicasa5k-662/high_quality_architectural/8681 (score: 0.3161)
+17
+[Easy] ../cubicasa5k-662/high_quality_architectural/1838 (score: 0.3097)
+18
+[Easy] ../cubicasa5k-662/high_quality/11384 (score: 0.3097)
+19
+[Easy] ../cubicasa5k-662/high_quality/9619 (score: 0.3176)
+20
+[Easy] ../cubicasa5k-662/high_quality_architectural/2142 (score: 0.3084)
+21
+[Easy] ../cubicasa5k-662/high_quality_architectural/11002 (score: 0.3272)
+22
+[Easy] ../cubicasa5k-662/high_quality_architectural/11016 (score: 0.3272)
+23
+[Easy] ../cubicasa5k-662/high_quality/13442 (score: 0.3252)
+24
+[Easy] ../cubicasa5k-662/high_quality_architectural/11008 (score: 0.3279)
+25
+[Easy] ../cubicasa5k-662/high_quality_architectural/20064 (score: 0.3272)
+26
+[Easy] ../cubicasa5k-662/high_quality/1244 (score: 0.2908)
+27
+[Easy] ../cubicasa5k-662/high_quality_architectural/11409 (score: 0.2908)
+28
+[Easy] ../cubicasa5k-662/high_quality_architectural/3218 (score: 0.2908)
+29
+[Easy] ../cubicasa5k-662/high_quality_architectural/12845 (score: 0.2802)
+30
+[Easy] ../cubicasa5k-662/high_quality_architectural/13450 (score: 0.2768)
+31
+[Easy] ../cubicasa5k-662/high_quality_architectural/8302 (score: 0.3049)
+32
+[Easy] ../cubicasa5k-662/high_quality_architectural/12454 (score: 0.3049)
+33
+[Easy] ../cubicasa5k-662/high_quality_architectural/10728 (score: 0.3049)
+34
+[Easy] ../cubicasa5k-662/high_quality/1877 (score: 0.3082)
+35
+[Easy] ../cubicasa5k-662/high_quality_architectural/11021 (score: 0.2686)
+36
+[Easy] ../cubicasa5k-662/high_quality_architectural/11018 (score: 0.2686)
+37
+[Easy] ../cubicasa5k-662/high_quality_architectural/6464 (score: 0.3097)
+38
+[Easy] ../cubicasa5k-662/high_quality/13442 (score: 0.3252)
+39
+[Easy] ../cubicasa5k-662/high_quality_architectural/11004 (score: 0.3272)
+40
+[Easy] ../cubicasa5k-662/high_quality_architectural/11002 (score: 0.3272)
+41
+[Easy] ../cubicasa5k-662/high_quality_architectural/11008 (score: 0.3279)
+42
+[Easy] ../cubicasa5k-662/high_quality_architectural/14236 (score: 0.2990)
+43
+[Easy] ../cubicasa5k-662/colorful/13278 (score: 0.2627)
+44
+[Easy] ../cubicasa5k-662/colorful/14937 (score: 0.2627)
+45
+[Easy] ../cubicasa5k-662/colorful/1732 (score: 0.2627)
+46
+[Easy] ../cubicasa5k-662/colorful/14927 (score: 0.2627)
+47
+[Easy] ../cubicasa5k-662/high_quality_architectural/13733 (score: 0.2627)
+48
+[Easy] ../cubicasa5k-662/high_quality_architectural/1902 (score: 0.2627)
+49
+[Easy] ../cubicasa5k-662/high_quality_architectural/2030 (score: 0.2849)
+50
+[Easy] ../cubicasa5k-662/high_quality_architectural/2117 (score: 0.2627)
 
 ===== Medium Samples =====
-[Medium] ../cubicasa5k-666/high_quality/14267 (score: 0.3331)
-[Medium] ../cubicasa5k-666/high_quality/10362 (score: 0.3317)
-[Medium] ../cubicasa5k-666/high_quality_architectural/12577 (score: 0.3317)
-[Medium] ../cubicasa5k-666/high_quality/13693 (score: 0.3386)
-[Medium] ../cubicasa5k-666/colorful/11664 (score: 0.3379)
-[Medium] ../cubicasa5k-666/high_quality_architectural/5049 (score: 0.3412)
-[Medium] ../cubicasa5k-666/high_quality/743 (score: 0.3588)
-[Medium] ../cubicasa5k-666/high_quality/14692 (score: 0.3553)
-[Medium] ../cubicasa5k-666/high_quality_architectural/12534 (score: 0.3506)
-[Medium] ../cubicasa5k-666/high_quality/10635 (score: 0.3588)
-[Medium] ../cubicasa5k-666/high_quality_architectural/11615 (score: 0.3588)
-[Medium] ../cubicasa5k-666/high_quality/10541 (score: 0.3506)
-[Medium] ../cubicasa5k-666/high_quality_architectural/13862 (score: 0.3655)
-[Medium] ../cubicasa5k-666/high_quality_architectural/11144 (score: 0.3741)
-[Medium] ../cubicasa5k-666/high_quality_architectural/20026 (score: 0.3742)
-[Medium] ../cubicasa5k-666/high_quality/13290 (score: 0.3647)
-[Medium] ../cubicasa5k-666/high_quality_architectural/12644 (score: 0.3742)
-[Medium] ../cubicasa5k-666/high_quality_architectural/14197 (score: 0.3742)
-[Medium] ../cubicasa5k-666/high_quality/9083 (score: 0.4245)
-[Medium] ../cubicasa5k-666/high_quality/9394 (score: 0.4111)
-[Medium] ../cubicasa5k-666/high_quality/12511 (score: 0.3989)
-[Medium] ../cubicasa5k-666/high_quality_architectural/13688 (score: 0.4106)
-[Medium] ../cubicasa5k-666/high_quality/1523 (score: 0.4190)
-[Medium] ../cubicasa5k-666/high_quality/1510 (score: 0.3923)
-[Medium] ../cubicasa5k-666/high_quality_architectural/6552 (score: 0.4430)
-[Medium] ../cubicasa5k-666/high_quality_architectural/755 (score: 0.4480)
-[Medium] ../cubicasa5k-666/high_quality_architectural/6505 (score: 0.4619)
-[Medium] ../cubicasa5k-666/high_quality_architectural/20057 (score: 0.4567)
-[Medium] ../cubicasa5k-666/high_quality_architectural/13483 (score: 0.4366)
-[Medium] ../cubicasa5k-666/high_quality_architectural/1581 (score: 0.4419)
-[Medium] ../cubicasa5k-666/high_quality_architectural/6037 (score: 0.5876)
-[Medium] ../cubicasa5k-666/colorful/11565 (score: 0.4906)
-[Medium] ../cubicasa5k-666/high_quality/14334 (score: 0.5334)
-[Medium] ../cubicasa5k-666/high_quality_architectural/10025 (score: 0.5107)
-[Medium] ../cubicasa5k-666/high_quality/20050 (score: 0.5056)
-[Medium] ../cubicasa5k-666/high_quality_architectural/14823 (score: 0.5411)
-[Medium] ../cubicasa5k-666/high_quality_architectural/10222 (score: 0.3923)
-[Medium] ../cubicasa5k-666/high_quality_architectural/3546 (score: 0.3552)
-[Medium] ../cubicasa5k-666/high_quality_architectural/7549 (score: 0.3588)
-[Medium] ../cubicasa5k-666/high_quality_architectural/14823 (score: 0.5411)
-[Medium] ../cubicasa5k-666/high_quality_architectural/7571 (score: 0.3553)
-[Medium] ../cubicasa5k-666/high_quality_architectural/12586 (score: 0.3552)
-[Medium] ../cubicasa5k-666/high_quality_architectural/2 (score: 0.3411)
-[Medium] ../cubicasa5k-666/high_quality/14270 (score: 0.5268)
-[Medium] ../cubicasa5k-666/high_quality/13603 (score: 0.3647)
-[Medium] ../cubicasa5k-666/high_quality/7522 (score: 0.4044)
-[Medium] ../cubicasa5k-666/high_quality/13064 (score: 0.3646)
-[Medium] ../cubicasa5k-666/high_quality/11357 (score: 0.3588)
-[Medium] ../cubicasa5k-666/high_quality_architectural/12304 (score: 0.3386)
-[Medium] ../cubicasa5k-666/high_quality_architectural/14296 (score: 0.4908)
-[Medium] ../cubicasa5k-666/high_quality/1644 (score: 0.3331)
-[Medium] ../cubicasa5k-666/colorful/12214 (score: 0.3458)
-[Medium] ../cubicasa5k-666/high_quality/3129 (score: 0.3929)
-[Medium] ../cubicasa5k-666/high_quality_architectural/11017 (score: 0.3599)
-[Medium] ../cubicasa5k-666/high_quality_architectural/10647 (score: 0.5326)
-[Medium] ../cubicasa5k-666/high_quality_architectural/3517 (score: 0.3856)
-[Medium] ../cubicasa5k-666/high_quality_architectural/14293 (score: 0.3990)
-[Medium] ../cubicasa5k-666/high_quality_architectural/12967 (score: 0.4766)
-[Medium] ../cubicasa5k-666/high_quality_architectural/3701 (score: 0.3331)
-[Medium] ../cubicasa5k-666/high_quality/6632 (score: 0.4355)
-[Medium] ../cubicasa5k-666/high_quality/11317 (score: 0.3453)
-[Medium] ../cubicasa5k-666/high_quality/10458 (score: 0.5949)
-[Medium] ../cubicasa5k-666/high_quality/20005 (score: 0.3588)
-[Medium] ../cubicasa5k-666/high_quality/9637 (score: 0.4178)
+1
+[Medium] ../cubicasa5k-662/high_quality_architectural/239 (score: 0.3308)
+2
+[Medium] ../cubicasa5k-662/colorful/2196 (score: 0.3317)
+3
+[Medium] ../cubicasa5k-662/high_quality_architectural/13648 (score: 0.3365)
+4
+[Medium] ../cubicasa5k-662/high_quality_architectural/47 (score: 0.3318)
+5
+[Medium] ../cubicasa5k-662/high_quality_architectural/3701 (score: 0.3331)
+6
+[Medium] ../cubicasa5k-662/high_quality_architectural/12573 (score: 0.3411)
+7
+[Medium] ../cubicasa5k-662/high_quality_architectural/11696 (score: 0.3520)
+8
+[Medium] ../cubicasa5k-662/high_quality/11317 (score: 0.3453)
+9
+[Medium] ../cubicasa5k-662/high_quality/743 (score: 0.3588)
+10
+[Medium] ../cubicasa5k-662/high_quality_architectural/11410 (score: 0.3453)
+11
+[Medium] ../cubicasa5k-662/high_quality_architectural/11697 (score: 0.3588)
+12
+[Medium] ../cubicasa5k-662/high_quality_architectural/709 (score: 0.3507)
+13
+[Medium] ../cubicasa5k-662/high_quality/5858 (score: 0.3785)
+14
+[Medium] ../cubicasa5k-662/high_quality_architectural/8323 (score: 0.3708)
+15
+[Medium] ../cubicasa5k-662/high_quality/107 (score: 0.3876)
+16
+[Medium] ../cubicasa5k-662/high_quality_architectural/20113 (score: 0.3647)
+17
+[Medium] ../cubicasa5k-662/high_quality_architectural/11001 (score: 0.3842)
+18
+[Medium] ../cubicasa5k-662/high_quality/9857 (score: 0.3856)
+19
+[Medium] ../cubicasa5k-662/high_quality_architectural/9333 (score: 0.3923)
+20
+[Medium] ../cubicasa5k-662/high_quality_architectural/14293 (score: 0.3990)
+21
+[Medium] ../cubicasa5k-662/high_quality_architectural/12179 (score: 0.4003)
+22
+[Medium] ../cubicasa5k-662/high_quality_architectural/10271 (score: 0.4136)
+23
+[Medium] ../cubicasa5k-662/high_quality_architectural/11699 (score: 0.3909)
+24
+[Medium] ../cubicasa5k-662/high_quality/9920 (score: 0.3989)
+25
+[Medium] ../cubicasa5k-662/high_quality_architectural/10714 (score: 0.4717)
+26
+[Medium] ../cubicasa5k-662/high_quality_architectural/8321 (score: 0.4551)
+27
+[Medium] ../cubicasa5k-662/high_quality/8530 (score: 0.4554)
+28
+[Medium] ../cubicasa5k-662/high_quality_architectural/1814 (score: 0.4714)
+29
+[Medium] ../cubicasa5k-662/high_quality/6211 (score: 0.4658)
+30
+[Medium] ../cubicasa5k-662/high_quality_architectural/12967 (score: 0.4766)
+31
+[Medium] ../cubicasa5k-662/high_quality_architectural/6013 (score: 0.5424)
+32
+[Medium] ../cubicasa5k-662/high_quality/9775 (score: 0.5180)
+33
+[Medium] ../cubicasa5k-662/high_quality_architectural/11000 (score: 0.5021)
+34
+[Medium] ../cubicasa5k-662/high_quality/11296 (score: 0.5483)
+35
+[Medium] ../cubicasa5k-662/high_quality_architectural/5808 (score: 0.4893)
+36
+[Medium] ../cubicasa5k-662/high_quality_architectural/10649 (score: 0.6336)
+37
+[Medium] ../cubicasa5k-662/high_quality/10458 (score: 0.5949)
+38
+[Medium] ../cubicasa5k-662/high_quality_architectural/5974 (score: 0.5897)
+39
+[Medium] ../cubicasa5k-662/high_quality_architectural/6037 (score: 0.5876)
+40
+[Medium] ../cubicasa5k-662/high_quality_architectural/8416 (score: 0.5823)
+41
+[Medium] ../cubicasa5k-662/high_quality/9480 (score: 0.5814)
+42
+[Medium] ../cubicasa5k-662/high_quality_architectural/9351 (score: 0.5696)
+43
+[Medium] ../cubicasa5k-662/high_quality_architectural/5044 (score: 0.5620)
+44
+[Medium] ../cubicasa5k-662/high_quality_architectural/14326 (score: 0.3647)
+45
+[Medium] ../cubicasa5k-662/high_quality_architectural/7089 (score: 0.3647)
+46
+[Medium] ../cubicasa5k-662/high_quality_architectural/12860 (score: 0.3647)
+47
+[Medium] ../cubicasa5k-662/high_quality_architectural/9154 (score: 0.3647)
+48
+[Medium] ../cubicasa5k-662/high_quality/6180 (score: 0.3655)
+49
+[Medium] ../cubicasa5k-662/high_quality_architectural/585 (score: 0.3842)
+50
+[Medium] ../cubicasa5k-662/high_quality/13727 (score: 0.4190)
+51
+[Medium] ../cubicasa5k-662/colorful/13254 (score: 0.3692)
+52
+[Medium] ../cubicasa5k-662/colorful/1794 (score: 0.3693)
+53
+[Medium] ../cubicasa5k-662/high_quality_architectural/7639 (score: 0.3426)
+54
+[Medium] ../cubicasa5k-662/colorful/13138 (score: 0.4500)
+55
+[Medium] ../cubicasa5k-662/high_quality/6342 (score: 0.5226)
+56
+[Medium] ../cubicasa5k-662/high_quality/3817 (score: 0.4044)
+57
+[Medium] ../cubicasa5k-662/high_quality_architectural/20026 (score: 0.3742)
+58
+[Medium] ../cubicasa5k-662/high_quality_architectural/14197 (score: 0.3742)
+59
+[Medium] ../cubicasa5k-662/high_quality_architectural/13071 (score: 0.3751)
+60
+[Medium] ../cubicasa5k-662/high_quality_architectural/7666 (score: 0.3506)
+61
+[Medium] ../cubicasa5k-662/high_quality_architectural/98 (score: 0.3506)
+62
+[Medium] ../cubicasa5k-662/high_quality_architectural/12534 (score: 0.3506)
+63
+[Medium] ../cubicasa5k-662/high_quality_architectural/709 (score: 0.3507)
+64
+[Medium] ../cubicasa5k-662/high_quality_architectural/12042 (score: 0.3520)
